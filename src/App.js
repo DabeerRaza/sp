@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router , Route, Switch, Redirect} from 'react-router-dom'
+import { HashRouter as Router , Route, Switch, Redirect} from 'react-router-dom'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import { Provider } from 'react-redux'
 import './utils/Styles/App.css';
