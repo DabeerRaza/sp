@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/sp/static/css/main.7caf6c1a.chunk.css",
-    "main.js": "/sp/static/js/main.4e3499a8.chunk.js",
-    "main.js.map": "/sp/static/js/main.4e3499a8.chunk.js.map",
+    "main.css": "/sp/static/css/main.fb7e13df.chunk.css",
+    "main.js": "/sp/static/js/main.ea7060a9.chunk.js",
+    "main.js.map": "/sp/static/js/main.ea7060a9.chunk.js.map",
     "runtime-main.js": "/sp/static/js/runtime-main.3607699b.js",
     "runtime-main.js.map": "/sp/static/js/runtime-main.3607699b.js.map",
-    "static/css/2.17e5ed98.chunk.css": "/sp/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.8cb2e6ed.chunk.js": "/sp/static/js/2.8cb2e6ed.chunk.js",
-    "static/js/2.8cb2e6ed.chunk.js.map": "/sp/static/js/2.8cb2e6ed.chunk.js.map",
+    "static/css/2.d898552e.chunk.css": "/sp/static/css/2.d898552e.chunk.css",
+    "static/js/2.6882eaf5.chunk.js": "/sp/static/js/2.6882eaf5.chunk.js",
+    "static/js/2.6882eaf5.chunk.js.map": "/sp/static/js/2.6882eaf5.chunk.js.map",
     "index.html": "/sp/index.html",
-    "precache-manifest.490ba1e0421fd79b30d53f8758722fb2.js": "/sp/precache-manifest.490ba1e0421fd79b30d53f8758722fb2.js",
+    "precache-manifest.cdab4d224284746af9d565c0a3b16567.js": "/sp/precache-manifest.cdab4d224284746af9d565c0a3b16567.js",
     "service-worker.js": "/sp/service-worker.js",
-    "static/css/2.17e5ed98.chunk.css.map": "/sp/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.7caf6c1a.chunk.css.map": "/sp/static/css/main.7caf6c1a.chunk.css.map",
-    "static/js/2.8cb2e6ed.chunk.js.LICENSE": "/sp/static/js/2.8cb2e6ed.chunk.js.LICENSE",
+    "static/css/2.d898552e.chunk.css.map": "/sp/static/css/2.d898552e.chunk.css.map",
+    "static/css/main.fb7e13df.chunk.css.map": "/sp/static/css/main.fb7e13df.chunk.css.map",
+    "static/js/2.6882eaf5.chunk.js.LICENSE": "/sp/static/js/2.6882eaf5.chunk.js.LICENSE",
     "static/media/avatar.JPG": "/sp/static/media/avatar.73476783.JPG",
     "static/media/blogPic1.jpeg": "/sp/static/media/blogPic1.ed986061.jpeg",
     "static/media/blogPic2.jpeg": "/sp/static/media/blogPic2.780ccb41.jpeg",
@@ -23,9 +23,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3607699b.js",
-    "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.8cb2e6ed.chunk.js",
-    "static/css/main.7caf6c1a.chunk.css",
-    "static/js/main.4e3499a8.chunk.js"
+    "static/css/2.d898552e.chunk.css",
+    "static/js/2.6882eaf5.chunk.js",
+    "static/css/main.fb7e13df.chunk.css",
+    "static/js/main.ea7060a9.chunk.js"
   ]
 }
