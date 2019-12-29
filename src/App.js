@@ -16,7 +16,7 @@ const App = () => {
       <Router>
         <div className="container-fluid">
           <Switch>
-            <Route exact path="/sp/">
+            <Route exact path="/">
               <Redirect to="/sp/login" />
             </Route>
             <Route exact path="/sp/login" component={Login}/>
